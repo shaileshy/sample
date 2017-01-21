@@ -1,0 +1,125 @@
+.top{
+    margin-top: 10px;
+}
+
+.logo{
+    margin-left: 20px;
+    display:inline;
+}
+.top-text{
+    color:rgb(253,167,39);
+    font-size: 30px;
+    display:inline;
+    margin-top: 10px;
+    float: right;
+    margin-right: 20px;
+}
+.header1{
+    height:35px;
+    width:100%;
+    background-color: rgb(253,167,39);
+}
+.col-md-12{
+    padding-left: 0px;
+    padding-right:0px;
+}
+.spanClass{
+    float:right;
+    font-size: 30px;
+    height: 35px;
+    width: 35px;
+    color:white;
+    background-color: rgb(250,180,50);
+    border:1px solid black;
+   align-content: center;
+}
+.sometext{
+    font-size: 30px;
+    margin-top: 20px;
+    margin-left:50px;
+    margin-bottom: 20px;
+}
+.headerCurosel{
+    height:340px;
+    width:85%;
+    margin-left: 90px;
+    margin-top: 50px;
+    border: 1px solid blue;
+    border-radius:5px;
+}
+.header2{
+    height:30px;
+    width:100%;
+    text-align: center;
+    border-radius-top: 5px;
+    align-content: center;
+    font-size: 25px;
+    background-color: rgb(47,57,92);
+    color:white;
+}
+.header3{
+    height:40px;
+    width:100%;
+    background-color: rgb(238,238,238);
+    align-content: center;
+
+
+}
+/*.carousel-control {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 5%;
+    font-size: 20px;
+    color: #fff;
+    text-align: center;
+    text-shadow: 0 1px 2px rgba(0,0,0,.6);
+    background-color: rgba(0,0,0,0);
+    filter: alpha(opacity=50);
+    opacity: .5;
+}
+.myCarousel{
+    height: 240px;
+    width: 100%;
+    align-content: center;
+}*/
+.spanClassLeft{
+    font-size: 40px;
+    background-color: rgb(245,245,245);
+}
+.spanClassRight{
+    float: right;
+    font-size: 40px;
+    background-color: rgb(245,245,245);
+}
+
+.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
+    display: block;
+    width: 1200px;
+    height: 268px;
+    height: 269px;
+    border-radius: 5px;
+}
+.ind-center{
+    display:inline;
+    align-content: center;
+
+}
+.carousel-indicators {
+    position: absolute;
+    bottom: 270px;
+    left: 50%;
+    z-index: 15;
+    width: 60%;
+    padding-left: 0;
+    margin-left: -30%;
+    text-align: center;
+    list-style: none;
+}
+.carousel-indicators .active {
+    width: 12px;
+    height: 12px;
+    margin: 0;
+    background-color: blue;
+}
